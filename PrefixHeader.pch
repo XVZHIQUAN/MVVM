@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  MVVM
+//
+//  Created by Guen on 16/5/20.
+//  Copyright © 2016年 Gemall. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//lib
+#import <AFNetworking/AFNetworking.h>
+#import <Masonry/Masonry.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+
+//commmon
+#import "NetRequest.h"
+
+//api
+#import "Interface.h"
+
+#endif /* PrefixHeader_pch */
